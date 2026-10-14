@@ -12,7 +12,7 @@ Aplikasi CRUD sederhana untuk mempelajari pola Model-View-Controller pada PHP Na
 1. Clone atau salin project ke folder web server.
 2. Import database/kampus.sql ke phpMyAdmin.
 3. Sesuaikan koneksi pada config/database.php.
-4. Buka http://localhost/mvc-native/public/index.php.
+4. Buka `http://localhost/public/index.php`
 
 ## Struktur MVC
 - `app/models/` : akses dan operasi data.
